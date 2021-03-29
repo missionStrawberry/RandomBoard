@@ -9,5 +9,5 @@ print2DArray()
         
 def print2DArray():
     for i in arr:
-        for j in arr[i]:
+        for j in i:
             print(j)
